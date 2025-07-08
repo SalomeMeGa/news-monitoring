@@ -1,0 +1,9 @@
+requests
+pandas
+python-dotenv
+sqlalchemy
+streamlit
+nltk
+spacy
+openai
+tqdm
